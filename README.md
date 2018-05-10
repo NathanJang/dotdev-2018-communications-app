@@ -4,11 +4,12 @@ Thank you for applying to be a .dev exec! Before your interview, please complete
 
 *One week from now, we will have a guest speaker from Groupon coming to speak about UX design of the Groupon platform. Food is provided, and the venue has been booked. The event is open to everyone, and we want as many people to come as possible, but RSVP is required. **With this goal in mind, draft an email to the .dev mailing list.***
 
-Submit your response by editing [`email.md`][email.md] and submitting a GitHub pull request. An easy way to do this on GitHub can be found [here][PR guide]. You may format your email using [Markdown][Markdown].
+Submit your response by editing [`email.md`][email.md] and submitting a GitHub pull request. An easy way to do this on GitHub can be found [here][PR guide]. You may format your email using [Markdown][Markdown]. A copy of the [.dev logo][.dev logo] is included.
 
 [email.md]: email.md
 [PR guide]: https://help.github.com/articles/editing-files-in-another-user-s-repository/
 [Markdown]: https://guides.github.com/features/mastering-markdown/
+[.dev logo]: logo.jpg
 
 The details of this event are intentionally ambiguous. You should think about:
 
