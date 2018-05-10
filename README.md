@@ -16,5 +16,6 @@ The details of this event are intentionally ambiguous. You should think about:
 - Making the event appeal to your readers.
 - What details need to be included in the email, and what don't.
 - Being concise and formatting well, so that readers will get the information they need before closing the email.
+- Whether you want to include any images or graphics.
 
 If you need to make details up, go for it!
