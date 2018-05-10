@@ -6,11 +6,6 @@ Thank you for applying to be a .dev exec! Before your interview, please complete
 
 Submit your response by editing [`email.md`][email.md] and submitting a GitHub pull request. An easy way to do this on GitHub can be found [here][PR guide]. You may format your email using [Markdown][Markdown]. A copy of the [.dev logo][.dev logo] is included.
 
-[email.md]: email.md
-[PR guide]: https://help.github.com/articles/editing-files-in-another-user-s-repository/
-[Markdown]: https://guides.github.com/features/mastering-markdown/
-[.dev logo]: logo.jpg
-
 The details of this event are intentionally ambiguous. You should think about:
 
 - Making the event appeal to your readers.
@@ -19,3 +14,18 @@ The details of this event are intentionally ambiguous. You should think about:
 - Whether you want to include any images or graphics.
 
 If you need to make details up, go for it!
+
+To add an image, type:
+
+```markdown
+![](logo.jpg)
+```
+
+for:
+
+![](logo.jpg)
+
+[email.md]: email.md
+[PR guide]: https://help.github.com/articles/editing-files-in-another-user-s-repository/
+[Markdown]: https://guides.github.com/features/mastering-markdown/
+[.dev logo]: logo.jpg

@@ -1,8 +1,8 @@
-From: **`dotdev@u.northwestern.edu`**
+**From**: `dotdev@u.northwestern.edu`
 
-To: **.dev Mailing List**
+**To**: .dev Mailing List
 
-Subject: **YOUR SUBJECT LINE**
+**Subject**: YOUR SUBJECT LINE
 
 ----
 
