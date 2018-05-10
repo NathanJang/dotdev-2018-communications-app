@@ -1,4 +1,4 @@
-**From**: `dotdev@u.northwestern.edu`
+**From**: .dev at Northwestern `<dotdev@u.northwestern.edu>`
 
 **To**: .dev Mailing List
 
