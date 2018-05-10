@@ -2,7 +2,7 @@
 
 Thank you for applying to be a .dev exec! Before your interview, please complete the following task so we can get a better feel for your writing style:
 
-*One week from now, we will have a guest speaker from Groupon coming to speak about UX design of the Groupon platform. Food is provided. The event is open to everyone, and we want as many people to come as possible, but RSVP is required. **With this goal in mind, draft an email to the .dev mailing list.***
+*One week from now, we will have a guest speaker from Groupon coming to speak about UX design of the Groupon platform. Food is provided, and the venue has been booked. The event is open to everyone, and we want as many people to come as possible, but RSVP is required. **With this goal in mind, draft an email to the .dev mailing list.***
 
 Submit your response by editing [`email.md`][email.md] and submitting a GitHub pull request. An easy way to do this on GitHub can be found [here][PR guide]. You may format your email using [Markdown][Markdown].
 
