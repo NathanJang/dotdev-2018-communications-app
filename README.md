@@ -13,7 +13,9 @@ The details of this event are intentionally ambiguous. You should think about:
 
 If you need to make details up, go for it!
 
-You may write your response in any rich-text editor. One way is by editing [`email.md`][email.md] and submitting a GitHub pull request. An easy way to do this on GitHub can be found [here][PR guide]. You may format your email using [Markdown][Markdown]. A copy of the [.dev logo][.dev logo] is included.
+## Submission
+
+You may write your response in any rich-text editor, including [Markdown][Markdown]. One way to do this is by editing [`email.md`][email.md] and submitting a GitHub pull request. An easy way to do this on GitHub can be found [here][PR guide]. A copy of the [.dev logo][.dev logo] is included.
 
 To add an image, type:
 
