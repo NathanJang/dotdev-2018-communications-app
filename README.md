@@ -19,7 +19,7 @@ A copy of the [.dev logo][.dev logo] is included.
 
 You may write your response in any rich-text editor that you can show at the interview. Some ways to do this are:
 
-- (Preferred): Editing [`email.md`][email.md] in [Markdown][Markdown] and submitting a GitHub pull request. An easy way to do this on GitHub can be found [here][PR guide].
+- (Preferred): [Editing `email.md`][Edit email.md] in [Markdown][Markdown] and submitting a GitHub pull request. An easy way to do this on GitHub can be found [here][PR guide].
 - Writing it in your rich-text email client like Gmail, and then emailing it to us.
 
 ## Appendix: Markdown
@@ -34,7 +34,7 @@ for:
 
 ![](logo.jpg)
 
-[email.md]: email.md
+[Edit email.md]: https://github.com/NathanJang/dotdev-2018-communications-app/edit/master/email.md
 [PR guide]: https://help.github.com/articles/editing-files-in-another-user-s-repository/
 [Markdown]: https://guides.github.com/features/mastering-markdown/
 [.dev logo]: logo.jpg
