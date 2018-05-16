@@ -19,7 +19,7 @@ A copy of the [.dev logo][.dev logo] is included.
 
 You may write your response in any rich-text editor that you can show at the interview. Some ways to do this are:
 
-- Editing [`email.md`][email.md] in [Markdown][Markdown] and submitting a GitHub pull request (preferred). An easy way to do this on GitHub can be found [here][PR guide].
+- (Preferred): Editing [`email.md`][email.md] in [Markdown][Markdown] and submitting a GitHub pull request. An easy way to do this on GitHub can be found [here][PR guide].
 - Writing it in your rich-text email client like Gmail, and then emailing it to us.
 
 ## Appendix: Markdown
